@@ -1,2 +1,2 @@
 # hello-CK
- ck --forever god
+ ck --java
